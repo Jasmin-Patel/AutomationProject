@@ -1,0 +1,8 @@
+<suite name="AutomationProject">
+	<test name="AutomationProjectTest">
+		<classes>
+			<class name="com.mystore.testcases.IndexPageTest" />
+			<class name="com.mystore.testcases.LoginPageTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
