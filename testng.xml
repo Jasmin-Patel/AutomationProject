@@ -3,6 +3,7 @@
 		<classes>
 			<class name="com.mystore.testcases.IndexPageTest" />
 			<class name="com.mystore.testcases.LoginPageTest" />
+			<class name="com.mystore.testcases.ApiTest" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
